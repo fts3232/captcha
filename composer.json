@@ -2,8 +2,7 @@
     "name": "fts/captcha",
     "description": "laravel 5 captcha package",
     "type": "package",
-    "license":"MIT",
-    "version":"1.0.0",
+    "license":"MIT"
     "authors": [
         {
             "name": "tianshuo feng",
@@ -31,6 +30,5 @@
         "illuminate/support": "~5.0",
         "illuminate/hashing": "~5.0",
         "intervention/image": "~2.2"
-    },
-    "minimum-stability": "dev"
+    }
 }
