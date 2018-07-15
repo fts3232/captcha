@@ -3,6 +3,10 @@
     "description": "laravel 5 captcha package",
     "type": "package",
     "license":"MIT",
+    "keywords":[
+        "laravel",
+        "captcha"
+    ],
     "authors": [
         {
             "name": "tianshuo feng",
