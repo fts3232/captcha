@@ -13,7 +13,7 @@
 ### 添加服务提供者
 打开 `config/app.php` 并添加以下内容到 providers 数组:
     
-    fts\CaptchaServiceProvider.php::class
+    fts\Captcha\CaptchaServiceProvider.php::class
 # 用法
      Route::any('captcha-test', function()
         {
